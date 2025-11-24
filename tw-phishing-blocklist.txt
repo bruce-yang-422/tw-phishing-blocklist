@@ -1,1 +1,8 @@
-fetc-netc.com
+!
+! Title: TW Phishing Blocklist
+! Description: Known phishing / scam domains targeting users in Taiwan.
+! Version: 2025.11.24.01
+! Last modified: 2025-11-24T16:53:00+08:00
+!
+! 偽裝遠通 eTag欠費通知的釣魚網站
+||fetc-netc.com^
