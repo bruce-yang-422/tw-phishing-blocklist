@@ -6,3 +6,7 @@
 !
 ! 偽裝遠通 eTag欠費通知的釣魚網站
 ||fetc-netc.com^
+
+! useralarmo 系列釣魚站
+||useralarmo.xyz^
+||hrif.useralarmo.xyz^
